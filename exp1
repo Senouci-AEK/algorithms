@@ -1,0 +1,12 @@
+Algorithme  PERSSONAGE
+Variables
+    NOM: chaine de caractères
+    age: entier
+Début
+Ecrire("donnes ton l'age")
+Lire(age)
+Ecrire("donnes votre NOM")
+Lire(NOM)
+Ecrire("bonjour"NOM,"tu as"age"et beinvenue à l'unniversité")
+Fin
+
