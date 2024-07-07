@@ -1,0 +1,11 @@
+Algorithme opératoins
+Variables
+n1,n2,n3,n4,n5,s,m: réel
+Début
+Ecrire(" donnes tout les nots")
+Lire(n1,n2,n3,n4,n5)
+s<-- n1 + n2+ n3 + n4 + n5
+Ecrire(" la somme =", s)
+m<-- s / 5
+Ecrire(" la moyenne =",m)
+Fin

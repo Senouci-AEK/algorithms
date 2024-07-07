@@ -1,0 +1,11 @@
+Algorithme surface avec la périmètre
+Variables
+larg,long,sur,pér: réel
+Début
+Ecrire("donnes la valeur de surface et périmètre")
+Lire(sur,pér)
+sur<-- long*larg
+Ecrire("le surface=",sur)
+pér<-- (larg+long)*2
+Ecrire("la périmètre=",pér)
+Fin

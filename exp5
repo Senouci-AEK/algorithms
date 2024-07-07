@@ -1,0 +1,11 @@
+Algorithme le volume 
+Variables
+reyon,v: réel
+Constante
+p = 3.14
+Début
+Ecrire(" donnes la valeur de reyon")
+Lire(reyon)
+v <-- ( 4 * p * (reyon ^ 3) ) / 3 
+Ecrire(" le volume =" , v )
+Fin

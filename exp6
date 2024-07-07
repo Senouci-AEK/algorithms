@@ -1,0 +1,13 @@
+	Algorithme change
+	Variables
+	a,b,c: entier
+	Début
+	Ecrire(" donnes la valeur de a et b")
+	Lire(a,b)
+	c<--a
+	a<--b
+	b<--c
+	Ecrire(" la valeur de a = " a )
+	Ecrire(" la valeur de b = " b )
+	Fin
+	

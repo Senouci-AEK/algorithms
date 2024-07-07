@@ -1,0 +1,9 @@
+Algorithme la puissance
+Variables
+x,y,puissance: réel
+Début
+Ecrire("donnés la valeur de x et y")
+Lire(x,y)
+puissance<-- x ^ y
+Ecrire(" la résultats =",puissance)
+Fin

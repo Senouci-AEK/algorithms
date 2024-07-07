@@ -1,0 +1,13 @@
+Algorithme  change
+Variables 
+a,b: entier
+Début
+Ecrire(" donnes la valeur de a et b ")
+Lire (a,b)
+a<-- a + b
+b<-- a - b
+a<-- a - b
+Ecrire (" la nouvelle a c' est =",a)
+Ecrire("la nouvelle b c' est =",b )
+Fin
+
